@@ -1,0 +1,65 @@
+body {
+    text-align: center;
+    background-color: #fbfd8a;
+}
+.top-container{
+    text-align: right;
+    font-family: 'Amatic SC', cursive;
+
+}
+li{
+    display: inline;
+}
+li a{
+    color: #01a9b4;
+    text-decoration: none;
+    margin: 150px;
+    line-height: 150px;
+}
+a{
+    text-decoration: none;
+}
+
+.middle-container {
+    margin: 0% auto 15%;
+    font-size: xx-large;
+    width: 600px;
+}
+
+.fist-text {
+    font-size: 5rem;
+    font-family: 'Anton', sans-serif;
+    margin: 0;
+}
+
+.second-text {
+    font-family: 'Rowdies', cursive;
+    margin: 0;
+}
+
+.third-text {
+    font-family: 'Thasadith', sans-serif;
+    margin: 10px;
+}
+.copyright{
+    color: #01a9b4;
+}
+
+/* about.html is beyond this point */
+
+.about-top-containter{
+    text-align: left;
+    font-family: 'Amatic SC', cursive;
+}
+
+.about-middle-container{
+    margin: 100px auto;
+    width: 900px;
+    font-size: x-large;
+
+}
+
+span{
+    font-family: 'Amatic SC', cursive;
+    font-size: x-large;
+}
